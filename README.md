@@ -1,3 +1,17 @@
+This project is from https://www.udemy.com/course/react-testing-library/learn/lecture/24450596#questions/15896300
+It covers testing react with react-testing-library and jest- react-native-testing-library is based on react-testing-library.  
+Course Repo: https://github.com/bonnie/udemy-TESTING-LIBRARY/tree/main/lecture-code
+
+Run with yarn start
+Run tests with yarn test. This starts jest watchman.
+ › Press a to run all tests.
+ › Press f to run only failed tests.
+ › Press q to quit watch mode.
+ › Press p to filter by a filename regex pattern.
+ › Press t to filter by a test name regex pattern.
+ › Press Enter to trigger a test run.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
